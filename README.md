@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & ML Projects<br>🤝 I’m looking for help with career progression<br>🌱 I’m currently learning Kotlin for Native Android Development<br>💬 Ask me about Solving real-world problems<br>⚡ Fun fact I love Reach and Development
+🔭 I’m currently working on AI & ML Projects<br>🤝 I’m looking for help with career progression<br>🌱 I’m currently learning Kotlin for Native Android<br>💬 Ask me about Solving real-world problems<br>⚡ Fun fact I love Reach and Development
 
 
 ## 🌐 Socials:
