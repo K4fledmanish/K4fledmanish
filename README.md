@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & ML Projects<br>🤝 I’m looking for help with career progression<br>🌱 I’m currently learning <br>💬 Ask me about Solving real-world problems<br>⚡ Fun fact I love rock and heavy metal genre
+🔭 I’m currently working on AI & ML Projects<br>🤝 I’m looking for help with career progression<br>🌱 I’m currently learning <br>💬 Ask me about Solving real-world problems<br>⚡ Fun fact I'm absolutely obsessed with the rock and heavy metal genre!
 
 
 ## 🌐 Socials:
